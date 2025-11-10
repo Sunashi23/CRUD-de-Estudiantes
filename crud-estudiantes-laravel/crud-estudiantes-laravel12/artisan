@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+// Minimal placeholder for artisan in this packaged project.
+echo "This is a packaged project skeleton. Run composer install on your machine to get full artisan functionality.\n";
