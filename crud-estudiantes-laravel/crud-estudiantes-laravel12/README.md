@@ -4,6 +4,9 @@ Este proyecto implementa un sistema completo **CRUD (Create, Read, Update, Delet
 
 El objetivo es reforzar el uso del framework Laravel aplicando el patrón, manejo de rutas, validaciones y el flujo completo de un sistema web básico.
 
+Link del Repositorio: 
+Link de la Pagina del navegador: http://127.0.0.1:8000
+
 ---
 
 ## 🎯 Objetivos del proyecto
@@ -67,3 +70,4 @@ resources/
 
 routes/
  └── web.php
+
