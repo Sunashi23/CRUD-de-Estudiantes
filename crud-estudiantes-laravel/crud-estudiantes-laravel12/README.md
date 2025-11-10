@@ -1,4 +1,4 @@
-# 📚 CRUD de Estudiantes – Laravel + Tailwind CSS
+# 📚 CRUD de Estudiantes – Laravel 12+ Tailwind CSS
 
 Este proyecto implementa un sistema completo **CRUD (Create, Read, Update, Delete)** para gestionar una **Lista de Estudiantes** y sus **Carreras**, desarrollado con **Laravel** y **Tailwind CSS**.
 
